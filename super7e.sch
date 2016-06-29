@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -1411,23 +1411,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="IC1" gate="MCU" pin="PE6"/>
 <wire x1="-93.98" y1="40.64" x2="-99.06" y2="40.64" width="0.1524" layer="91"/>
 <label x="-99.06" y="40.64" size="1.27" layer="95" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="N$1" class="0">
-<segment>
-<wire x1="-317.5" y1="76.2" x2="-317.5" y2="-10.16" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$2" class="0">
-<segment>
-<wire x1="-281.94" y1="73.66" x2="-284.48" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="-284.48" y1="73.66" x2="-284.48" y2="-10.16" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$3" class="0">
-<segment>
-<wire x1="-251.46" y1="73.66" x2="-254" y2="73.66" width="0.1524" layer="91"/>
-<wire x1="-254" y1="73.66" x2="-254" y2="-12.7" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SW_GEAR" class="0">
